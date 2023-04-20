@@ -1,6 +1,7 @@
+//**FRUIT PICKING GAME**//
 #include "Adafruit_GFX.h"
 #include "Adafruit_ILI9341.h"
-#include "LILMAN.h.h" // icons location
+#include "images.h" // image locations
 
 #define TFT_DC 9
 #define TFT_CS 10
